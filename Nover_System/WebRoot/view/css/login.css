@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+
+.wrap {
+	width: 70%;
+	margin: 0 auto;
+	background: #c8c8c8;
+	box-shadow: 0 0 10px black;
+	padding: 20px;
+}
+
+.login-wrap {
+	width: 50%;
+	margin: 30px auto;
+	background: #292933;
+	box-shadow: 0 0 10px black;
+	padding: 20px;
+}
+
+.container-01 {
+	width: 90%;
+	background: #c0c0c0;
+	margin: 0 auto;
+	box-shadow: 0 0 10px black;
+	min-height: 600px;
+	　　 /*当div内容不超过200px高度时，div高度为200px*/
+	　　
+	height
+	:
+	auto;
+	　　 /*当div内容超过200px高度时，div自动增高*/
+}
+
+.header {
+	margin-top: 5px;
+	width: 100%;
+}
+
+.content {
+	overflow: auto;
+	background-color:;
+	margin-top: 20px;
+	padding: 10px 20px;
+}
+
+.content-left {
+	width: 190px;
+	float: left;
+	margin-right: -190px min-height:600px;
+	　　 /*当div内容不超过200px高度时，div高度为200px*/
+	　　
+	height
+	:
+	auto;
+	　　 /*当div内容超过200px高度时，div自动增高*/
+}
+
+.content-right {
+	float: right;
+	width: 100%;
+}
+
+.content-right-child {
+	margin-left: 200px;
+	background:;
+}

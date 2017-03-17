@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+
+.read-body {
+	background: #EBEAE9;
+	margin: 0 0;
+}
+
+pre {
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+
+p {
+	font-size: 20px;
+}
+
+.read-wrap{
+	width: 65%;
+	margin: 0 auto 30px;
+	background: #f6f4ec;
+	-webkit-box-shadow: 0 0 15px 0 #ccc;
+	-moz-box-shadow: 0 0 15px 0 #ccc;
+	box-shadow: 0 0 15px 0 #ccc;
+}
+
+.story-wrap {
+	padding:25px;
+}
+
+.next-page-box a {
+	background: #fff;
+	border: 1px solid #d9d9d9;
+	border-radius: 3px;
+	box-shadow: 0 1px 1px #bbb;
+	display: inline-block;
+	font: 16px/42px "Microsoft YaHei";
+	height: 42px;
+	text-align: center;
+	width: 158px;
+}
+
+.next-page-box{
+	
+	padding-bottom:78px;
+	width: 500px;
+	margin: 35px auto 0;
+}
+
