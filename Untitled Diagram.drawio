@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T10:36:22.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="i878CJILgtnrpfD4gFCz" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T10:38:47.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="eNlRl1iBCEWdDtWIHNcK" version="15.8.7" type="github">
   <diagram id="R59FIz4Hy2KmhGvVLzks" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
         <mxCell id="O7JlTW3U-JiWmMRfGXyI-46" value="校验用户是否为访客【t_customer_account】" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O7JlTW3U-JiWmMRfGXyI-47" value="清数策略" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="O7JlTW3U-JiWmMRfGXyI-47" value="调用清数策略" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O7JlTW3U-JiWmMRfGXyI-52" value="kyc-core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;sketch=1;" vertex="1" parent="1">
