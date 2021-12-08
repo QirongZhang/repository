@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T02:23:57.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="e9HoDq_s4m2l2Y7HgOrs" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T02:28:52.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="mS7durT8r6hxQixWxonv" version="15.8.7" type="github">
   <diagram id="R59FIz4Hy2KmhGvVLzks" name="第 1 页">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,6 +152,21 @@
         </mxCell>
         <mxCell id="O7JlTW3U-JiWmMRfGXyI-26" value="根据业务流水号【bizNo】查找贷款开户记录【t_application_order】" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="670" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O7JlTW3U-JiWmMRfGXyI-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O7JlTW3U-JiWmMRfGXyI-56" target="O7JlTW3U-JiWmMRfGXyI-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7JlTW3U-JiWmMRfGXyI-60" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O7JlTW3U-JiWmMRfGXyI-56" target="O7JlTW3U-JiWmMRfGXyI-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O7JlTW3U-JiWmMRfGXyI-56" value="dataclean" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7JlTW3U-JiWmMRfGXyI-57" value="corecenter" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O7JlTW3U-JiWmMRfGXyI-59" value="kyc-core" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry y="1430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
